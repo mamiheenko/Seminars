@@ -15,7 +15,7 @@ else
 {
     while (number > 1000)
     {
-        number = number - 1000;
+        number = number / 10;
     }
     Console.WriteLine(number % 10);
-}
+} 

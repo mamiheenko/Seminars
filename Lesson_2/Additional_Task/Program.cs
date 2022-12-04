@@ -23,4 +23,3 @@ if (max<max2) Console.WriteLine(max);
 
 
 
-
