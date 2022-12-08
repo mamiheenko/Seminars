@@ -21,4 +21,3 @@ else
 {
     Console.WriteLine("нет");
 }
-

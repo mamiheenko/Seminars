@@ -19,4 +19,3 @@ double z2 = Convert.ToInt32(Console.ReadLine());
 double result = Math.Sqrt(Math.Pow((x1-x2),2) + Math.Pow((y1-y2),2) + Math.Pow((z1-z2),2));
 Console.WriteLine(Math.Round(result, 2));
 
-
